@@ -508,3 +508,6 @@ This project demonstrates the following capabilities, even under limited informa
 - Extended CAN: 29비트 CAN Identifier
 
 ---
+
+
+https://github.com/roistory/Diagnostic_UDS_Fail_Analysis_Portfolio
